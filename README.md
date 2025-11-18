@@ -16,10 +16,10 @@ High Accuracy for Specific Stores: Notably, Store 30 exhibited a remarkable MAPE
 Varied Performance: The evaluation highlights that some stores are more challenging to predict, with higher error rates.
 
 Technologies Used
-Python
-Pandas (for data manipulation)
-NumPy (for numerical operations)
-Chronos (Deep Learning Forecasting Library)
-Scikit-learn (for evaluation metrics)
-Matplotlib & Seaborn (for visualizations)
-Holidays (for holiday marking on plots)
+Python,
+Pandas (for data manipulation),
+NumPy (for numerical operations),
+Chronos (Deep Learning Forecasting Library),
+Scikit-learn (for evaluation metrics),
+Matplotlib & Seaborn (for visualizations),
+Holidays (for holiday marking on plots),
