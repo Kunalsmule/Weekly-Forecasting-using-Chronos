@@ -14,6 +14,7 @@ The Chronos model demonstrates significant potential for retail sales forecastin
 
 High Accuracy for Specific Stores: Notably, Store 30 exhibited a remarkable MAPE of 1.91%, and Store 33 achieved an even lower MAPE of 1.70%. This indicates that for stores with more consistent or predictable sales patterns, the Chronos model delivers highly reliable forecasts (deviating by less than 2% on average).
 Varied Performance: The evaluation highlights that some stores are more challenging to predict, with higher error rates.
+
 Technologies Used
 Python
 Pandas (for data manipulation)
